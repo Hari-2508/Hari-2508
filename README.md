@@ -1,5 +1,5 @@
 # 👋 Hello there! I'm Harish
-
+This is my new account, deleted my other
 ---
 
 ## 🔧 What I Do
@@ -27,7 +27,7 @@
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/) *(add your profile)*  
-- 📧 [Email](mailto:youremail@example.com) *(replace with your email)*  
+- 📧 harishpurushothaman23@gmail.com 
 - 🛠️ Always open to collaboration, feedback, and new ideas!
 
 ---
